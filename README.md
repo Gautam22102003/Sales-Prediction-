@@ -1,7 +1,3 @@
-Here is your formatted README for the Kaggle Predicting Future Sales project:
-
----
-
 # Kaggle-Predicting-Future-Sales
 ![Kaggle-Predicting-Future-Sales](https://img.shields.io/badge/ForTheBadge-uses--git-brightgreen)  
 
